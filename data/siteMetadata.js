@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Metastash Blog',
-  author: 'Metastash',
-  headerTitle: 'Metastash',
+  author: 'metastash',
+  headerTitle: 'metastash',
   description: 'Musings',
   language: 'en-us',
   theme: 'system', // system, dark or light
