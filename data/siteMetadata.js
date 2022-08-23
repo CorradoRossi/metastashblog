@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'ABCs of NFTs',
   author: 'metastash',
   headerTitle: 'ABCs of NFT',
-  description: 'Musings on the state of NFTs and Crypto',
+  description: 'Musings on the state of crypto and non-fungible-tokens',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://abcsofnft.com',
