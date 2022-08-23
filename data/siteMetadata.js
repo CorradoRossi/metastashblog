@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'ABCs of NFTs',
+  title: 'ABCs of NFT',
   author: 'metastash',
   headerTitle: 'ABCs of NFT',
   description: 'Musings on the state of crypto and non-fungible-tokens',
