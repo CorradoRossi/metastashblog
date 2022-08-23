@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: 'Metastash Blog',
+  title: 'ABCs of NFTs',
   author: 'metastash',
-  headerTitle: 'metastash',
-  description: 'Musings',
+  headerTitle: 'ABCs of NFT',
+  description: 'Musings on the state of NFTs and Crypto',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://abcsofnft.com',
   siteRepo: 'https://github.com/corradorossi/metastashblog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
