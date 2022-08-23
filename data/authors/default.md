@@ -1,6 +1,6 @@
 ---
 name: Metastash
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpg
 occupation: Enthusiast
 company: WGMI Capital
 email: hi@wgmy.fyi
