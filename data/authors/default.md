@@ -1,7 +1,7 @@
 ---
 name: Metastash
 avatar: /static/images/avatar.jpg
-occupation: Enthusiast
+occupation: Elder Degen
 company: WGMI Capital
 email: hi@wgmy.fyi
 twitter: https://twitter.com/metastash
