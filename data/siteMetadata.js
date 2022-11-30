@@ -7,7 +7,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://wenlambo.wtf',
   siteRepo: 'https://github.com/corradorossi/metastashblog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/lambo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'rossimeacham@gmail.com',
