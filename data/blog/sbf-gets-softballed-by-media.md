@@ -1,5 +1,5 @@
 ---
-title: Abundance In The Age Of Down Bad
+title: SBF gets softball handling from media
 date: '2022-11-30'
 tags: ['crypto', 'ftx', 'sbf']
 draft: false
