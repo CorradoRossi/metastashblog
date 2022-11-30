@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Metastash',
+  title: 'wenlambo.wtf',
   author: 'metastash',
-  headerTitle: 'Metastash',
-  description: 'Musings on the state of crypto and non-fungible-tokens',
+  headerTitle: 'wenlambo.wtf',
+  description: 'NFT musings of a curmudgeonly elder degen',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://abcsofnft.com',
-  siteRepo: 'https://github.com/corradorossi/metastashblog',
+  siteUrl: 'https://wenlambo.wtf',
+  siteRepo: 'https://github.com/corradorossi/wenlambowtf',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
