@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'wenlambo.wtf',
   author: 'metastash',
   headerTitle: 'wenlambo.wtf',
-  description: 'NFT musings of a curmudgeonly elder degen',
+  description: 'Musings of a curmudgeonly elder degen',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://wenlambo.wtf',
