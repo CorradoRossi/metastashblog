@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://wenlambo.wtf',
-  siteRepo: 'https://github.com/corradorossi/wenlambowtf',
+  siteRepo: 'https://github.com/corradorossi/metastashblog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
