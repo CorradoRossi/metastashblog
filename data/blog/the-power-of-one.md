@@ -1,5 +1,5 @@
 ---
-title: The Power of One: How Solopreneurs and Indie Hackers are Changing the Business Landscape
+title: 'The Power of One: How Solopreneurs and Indie Hackers are Changing the Business Landscape'
 date: '2023-11-17'
 tags: ['solopreneur', 'indie', 'howto']
 draft: false
