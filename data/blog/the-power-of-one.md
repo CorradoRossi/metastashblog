@@ -1,12 +1,12 @@
 ---
 title: 'The Power of One: How Solopreneurs and Indie Hackers are Changing the Business Landscape'
 date: '2023-11-17'
-tags: ['solopreneur', 'indie', 'howto']
+tags: ['solopreneur', 'indie', 'inspiration']
 draft: false
 summary: In today’s fast-paced business world, solopreneurs and indie hackers are emerging as formidable players
 images: []
 layout: PostSimple
-canonicalUrl: sbf-gets-softballed-by-media
+canonicalUrl: the-power-of-one
 ---
 
 In today’s fast-paced business world, solopreneurs and indie hackers are emerging as formidable players. With their unique set of advantages, they are redefining what it means to be successful in business. In this blog post, we’ll explore the competitive edges that set solopreneurs and indie hackers apart and how they're leveraging these strengths to make a significant impact in the market.
