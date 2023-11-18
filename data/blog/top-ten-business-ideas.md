@@ -1,6 +1,6 @@
 ---
 title: 'Top 10 Business Ideas for Tech Savvy Entrepreneurs on a Budget'
-date: '2023-11-17'
+date: '2023-11-18'
 tags: ['business', 'solopreneur', 'inspiration']
 draft: false
 summary: business ideas
